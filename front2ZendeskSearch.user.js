@@ -20,7 +20,7 @@ for (var i = 0; i < allLinks.length; i++) {
         let pathname = url.pathname
         let front_search_q = pathname.replace("/open/", "")
         if( front_search_q.includes("msg_") || front_search_q.includes("cnv_") ) {
-            allLinks[i].setAttribute("href", "https://woothemes.zendesk.com/agent/search/1?copy&type=ticket&q=" + front_search_q);
+            allLinks[i].setAttribute("href", "https://href.li/?https://woothemes.zendesk.com/agent/search/1?copy&type=ticket&q=" + front_search_q);
         }
 
     }
