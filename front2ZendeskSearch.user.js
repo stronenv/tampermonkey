@@ -17,7 +17,6 @@ for (var i = 0; i < allLinks.length; i++) {
     // Check if the href includes a frontapp.com link
     if(allLinks[i].href.includes("https://app.frontapp.com")) {
 
-
         // Look for Front IDs
         let matches = allLinks[i].href.match(/\/open\/([a-z]{3}_.{7})/m);
 
