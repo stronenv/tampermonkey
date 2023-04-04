@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Replace Front links with Zendesk search query
 // @description  Will try to replace all front reefernces with a Zendesk search query.
-// @version      0.1
+// @version      0.2
 // @author       stronenv
 // @match        https://*.wordpress.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
